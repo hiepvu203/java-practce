@@ -9,7 +9,7 @@ An object includes two pieces of information: attributes and methods.
 - Methods are operations and actions that an object can perform.
   >For example, a person will be able to perform the actions of speaking, walking, eating, drinking, etc.
 
-##Class
+## Class
 A class is a data type that includes predefined properties and methods. Unlike regular data types, a class is an (abstract) unit consisting of a combination of methods and properties.
 ### Difference between object and class
 A class can be understood as a stereotype, an object is an instance entity based on that stereotype. 
